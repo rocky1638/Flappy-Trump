@@ -1,3 +1,10 @@
+/*
+A game inspired by the hit mobile game "Flappy Bird".
+This game is in no way intended to offend or create a negative image for Donald Trump, the current POTUS
+
+Rock Zhou, June 2017
+*/
+
 void setup() {
   size(700, 700);
   colorMode(RGB);
